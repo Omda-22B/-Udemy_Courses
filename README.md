@@ -37,3 +37,6 @@ The Overview Dashboard provides a high-level summary of Udemy course data, givin
 
 - Subscribers by Subject: Horizontal bar chart displaying subscriber counts by subject area.
 
+![Overview.png](Overview.png)
+
+
