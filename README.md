@@ -40,7 +40,7 @@ The Overview Dashboard provides a high-level summary of Udemy course data, givin
 # Purpose:
 This dashboard helps instructors, content creators, and business analysts quickly understand course performance, identify growth opportunities, and make data-driven decisions for platform optimization.
 
-![Overview.png](Overview.png)
+![Overview!.png](Overview!.png)
 
 # Course Details Dashboard
 
